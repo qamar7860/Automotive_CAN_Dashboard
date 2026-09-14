@@ -1,0 +1,14 @@
+../Core/Src/ILI9341.c:24:13:TFT_CS_Low	1
+../Core/Src/ILI9341.c:29:13:TFT_CS_High	1
+../Core/Src/ILI9341.c:34:13:TFT_DC_Command	1
+../Core/Src/ILI9341.c:39:13:TFT_DC_Data	1
+../Core/Src/ILI9341.c:47:13:TFT_WriteCommand	1
+../Core/Src/ILI9341.c:60:13:TFT_WriteData	1
+../Core/Src/ILI9341.c:73:13:TFT_SetAddressWindow	1
+../Core/Src/ILI9341.c:107:6:ILI9341_Init	1
+../Core/Src/ILI9341.c:216:6:ILI9341_DrawPixel	3
+../Core/Src/ILI9341.c:234:6:ILI9341_FillRect	6
+../Core/Src/ILI9341.c:272:6:ILI9341_FillScreen	1
+../Core/Src/ILI9341.c:298:13:GetGlyph	25
+../Core/Src/ILI9341.c:438:6:ILI9341_DrawChar	6
+../Core/Src/ILI9341.c:477:6:ILI9341_DrawString	2
